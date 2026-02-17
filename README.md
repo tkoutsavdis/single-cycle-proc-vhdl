@@ -1,6 +1,6 @@
-# Single-Cycle Processor (VHDL) — CHARIS ISA
+# Single-Cycle Processor (VHDL)
 
-VHDL implementation of a **single-cycle (non-pipelined) processor** designed for the CHARIS instruction set.
+VHDL implementation of a **single-cycle processor**.
 
 ## Documentation
 - Assignment: `Assignment-1.pdf`
